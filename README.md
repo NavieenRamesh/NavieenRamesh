@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navieen</h1>
 <h3 align="center">Machine learning and Cybersecurity enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO">
 
 - 🔭 I’m currently working on [Face Presentation Attack Detection via Deep Reinforcement Learning](https://github.com/Batch-03/Face-Presentation-Attack-Detection-via-Deep-Reinforcement-Learning)
 
